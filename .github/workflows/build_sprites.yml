@@ -27,4 +27,5 @@ jobs:
           target-folder: sprites
           folder: /home/runner/work/osm-liberty/osm-liberty/sprites
           git-config-name: maputnik-bot
+          git-config-email: noreply@maputnik.github.io
           commit-message: Build sprites
