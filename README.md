@@ -1,6 +1,6 @@
 # OSM Liberty [![BSD licensed](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md) [![GitHub CI status](https://github.com/maputnik/osm-liberty/workflows/CI/badge.svg)](https://github.com/maputnik/osm-liberty/actions?query=workflow%3ACI)
 
-<img align="right" alt="OSM Liberty" src="logo.png" />
+<img align="right" alt="OSM Liberty" src="logo.png" /> 
 
 A free Mapbox GL basemap style for everyone with complete liberty to use and self host. OSM Liberty is a fork of OSM Bright based on free data sources with a mission for a clear good looking design for the everyday user. It is based on the vector tile schema of [OpenMapTiles](https://github.com/openmaptiles/openmaptiles).
 
